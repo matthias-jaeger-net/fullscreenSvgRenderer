@@ -1,0 +1,19 @@
+{
+  "name": "fullscreensvgrenderer",
+  "version": "1.0.0",
+  "description": "Tryout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthias-jaeger-net/fullscreenSvgRenderer.git"
+  },
+  "author": "Matthias Jaeger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthias-jaeger-net/fullscreenSvgRenderer/issues"
+  },
+  "homepage": "https://github.com/matthias-jaeger-net/fullscreenSvgRenderer#readme"
+}
